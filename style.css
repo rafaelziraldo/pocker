@@ -1,0 +1,15 @@
+#apostar{
+	position: absolute;
+	bottom: 0;
+	
+}
+#apostar button{
+	padding: 30px;
+	
+}
+#mesa p{
+	position: absolute;
+	border:1px solid black;
+	padding: 20px 30px;
+	left: 50px;
+}
